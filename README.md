@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there 👋, I'm Yuvaraj Lodagala
 
-<!--
-**Yuvaraj19-max/Yuvaraj19-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Java Full Stack Developer (Fresher)
 
-Here are some ideas to get you started:
+I am an Electronics and Communication Engineering graduate passionate about software development. I enjoy building Java applications, solving programming problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Electronics and Communication Engineering
+- 💻 Interested in Java Full Stack Development
+- 🌱 Currently learning Spring Boot and JDBC
+- 🔍 Looking for Entry-Level Software Developer opportunities
+- 📍 Visakhapatnam, Andhra Pradesh, India
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Java
+- SQL
+
+### Frontend
+- HTML
+- CSS
+- java script
+
+### Tools
+- Git
+- GitHub
+- Eclipse IDE
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+- Employee Management System
+- Coffee Shop Website
+- PCB Defect Detection using YOLO
+- Java Practice Programs
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- Email: yuvarajlodagala19@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
