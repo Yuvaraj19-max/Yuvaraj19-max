@@ -46,7 +46,7 @@ I am an Electronics and Communication Engineering graduate passionate about soft
 
 ## 📫 Connect With Me
 
-- LinkedIn: https:linkedin.com/in/yuvaraj-lodagala-9a579b322
+- LinkedIn: https:www.linkedin.com/in/yuvaraj-lodagala-9a579b322
 - Email: yuvarajlodagala19@gmail.com
 
 ---
